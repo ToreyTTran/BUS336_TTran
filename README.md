@@ -19,4 +19,5 @@
 >* Harvard CS50
 > Sig Term project
 > Bang for your starBUCK:Average/Median/Mode of caffiene content by size/ by cost of drink / by type of drink (coffee/espresso/teas)
+>  highest caffiene content per dollar/cent. 
 > how to handle a range of caffiene in drinks? caff min caff max additional columns
