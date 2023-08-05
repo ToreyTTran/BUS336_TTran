@@ -21,3 +21,4 @@
 > Bang for your starBUCK:Average/Median/Mode of caffiene content by size/ by cost of drink / by type of drink (coffee/espresso/teas)
 >  highest caffiene content per dollar/cent. 
 > how to handle a range of caffiene in drinks? caff min caff max additional columns
+>  tally instances of milk, types of milk - coffee, drip vs esspresso -> what are the most represented/repeated beverage types
