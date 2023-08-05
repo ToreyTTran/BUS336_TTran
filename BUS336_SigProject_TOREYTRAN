@@ -13,8 +13,12 @@ import numpy as np
 # assign project data to variable: file
 file = 'STARBUCKS.CSV'
 
-# load file as array: BlANK
-BLANK = np.loadtxt(file, delimiter=','
+# load file as array: BlANK 
+BLANK = np.loadtxt(file, delimiter=',')
 
 # Print datatype of BLANK
 print(type(digits))
+
+#numpy lacks the 2d labeled data structure needed for deeper analysis, enter pandas
+#panads = manipulate, slice, reshape, grouby, join, merge, perform statistics in a missing value friendly manner, deal with times seires etc
+#pandas imports files as a database. matrix = rows and columns data frame = observations and variables
