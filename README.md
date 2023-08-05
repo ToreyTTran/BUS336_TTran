@@ -7,9 +7,13 @@
 >* You have been hired as a consultant to help the upstart competitor to assist in this task. You could do the analysis in Excel, but the company hiring you would like you to share all the steps you take to analyze the data. In Excel, you could do this in Visual Basic coding. Basic Visual coding is the coding that is used behind the scenes in Excel. 
 >* Here is the problem that you run against. Even if you possess the knowledge of how to code in Visual Basic, someone in the company that is hiring you would also have to know it, as well as anyone they would like to share it with. Visual Basic is not a widely used programming language. It is a Microsoft-specific product and therefore, not that many programmers work with it.
 >* Fortunately, many programmers know how to code in open-access Python. Therefore, your task is to:
->1. Import the file Starbucks beverage menu into Python,
->2. Analyze the data, make recommendations,
->3. and make your code available to the company hiring you.
+1.The project has six objectives, as follows:
+2.Organize complex data for business analysis.
+3.Explore business data for insights.
+4.Synthesize concepts to structure data to allow for business analysis.
+5.Share business data to different audiences.
+6, Present business data to make decisions.
+7. Reflect with a critical review of what students learned in the course and how Python can build your skill set. 
 
 >7.27 Notes
 >develop a system for remembering syntax/code/functions/types/
