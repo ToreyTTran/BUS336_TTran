@@ -3,3 +3,18 @@
 # Prof. Joseph Foy
 
 ## Bang for your Buck: A competitor's Analysis of Starbucks
+>How to import data into python? Numpy? 
+# Numpy arrays are the python standard storing numerical data. Efficient/Fast/Clean
+# further applications through scikit-learn: Popular machine learning package
+
+# import Numpy package as np
+import numpy as np
+
+# assign project data to variable: file
+file = 'STARBUCKS.CSV'
+
+# load file as array: BlANK
+BLANK = np.loadtxt(file, delimiter=','
+
+# Print datatype of BLANK
+print(type(digits))
