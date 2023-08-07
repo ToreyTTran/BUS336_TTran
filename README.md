@@ -26,3 +26,6 @@
 >  highest caffiene content per dollar/cent. 
 > how to handle a range of caffiene in drinks? caff min caff max additional columns
 >  tally instances of milk, types of milk - coffee, drip vs esspresso -> what are the most represented/repeated beverage types
+>
+>8.6 notes
+>
